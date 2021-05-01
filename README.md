@@ -49,7 +49,7 @@ This is a list of packages that need to be installed before the notebook can be 
 
 ### Installation
 
-Clone the repo: https://github.com/calvinma888/LSTM_trader.git
+Clone the repo: https://github.com/calvinma888/Cplusplus_Neural_Network.git
    
 
 <!-- USAGE EXAMPLES -->
