@@ -1,4 +1,4 @@
-# Creating a C++ Neural Network Using Matrices
+# Implementing a C++ Neural Network Using Matrices
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
